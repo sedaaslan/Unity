@@ -1,0 +1,11 @@
+5.5.1f1:2.8.2.0
+StandaloneWindows
+C:/Users/Casper/Documents/Editor/Data/Managed/UnityEngine.dll
+C:/Users/Casper/Documents/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+C:/Users/Casper/Documents/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+C:/Users/Casper/Documents/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+C:/Users/Casper/Documents/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+C:/Users/Casper/Documents/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+C:/Users/Casper/Documents/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+C:/Users/Casper/Documents/Editor/Data/Managed/UnityEditor.dll
+C:/Users/Casper/Documents/Editor/Data/Managed/Mono.Cecil.dll
